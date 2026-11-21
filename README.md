@@ -10,4 +10,4 @@ brew install andrewhopper/tap/ai-file-manager
 |---|---|
 | `ai-file-manager` (`afm`) | Keeps your Mac's Desktop and photo archives in order: rules in one JSON file, sidecar photo indexes, local AI search. [Project page](https://blog.andrewhopper.com/projects/ai-file-manager) |
 
-Formulae are updated automatically when a release is tagged.
+`packages/` holds the compiled packages the formulae install (no source code). Formulae and packages are updated automatically when a release is tagged.
